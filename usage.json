@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/agentra-countex",
+  "packageVersion": "0.1.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/agentra-countex",
+  "usageRepository": "https://github.com/x12i-sdk/agentra-countex",
+  "sourceRepository": "https://github.com/x12i/agentra",
+  "sourceCommit": "772e50e64925e6359e42172d4dcf11d4aa795763",
+  "sourcePackageDirectory": "packages/countex",
+  "example": {
+    "title": "Count a user activity fixture with the bundled counter map",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:29:38.003956+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "8d6b3153f3416bfa4d895970573cfba1e4ad314ad5f4fe6c938c8a0ff695f0fb",
+    "manifestSha256": "07de59dd3bce13e5cac930e97de0db6bc8264fdb59b002eab2810a5223124d06"
+  },
+  "validationFiles": {
+    "src/index.mjs": "8d6b3153f3416bfa4d895970573cfba1e4ad314ad5f4fe6c938c8a0ff695f0fb"
+  }
+}
